@@ -1,1 +1,0 @@
-Create Chat with your Data application following the detail steps in this blog: https://devblogs.microsoft.com/azure-sql/chat-with-your-data-azure-sql-database/
